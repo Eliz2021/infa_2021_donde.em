@@ -125,5 +125,5 @@ root.mainloop()
 # Запись результатов в файл
 
 string = t + ' ' + str(score) + '\n'
-with open('/Users/elizavetalebosina/Documents/Python мфти/results.txt', 'a') as f:
+with open('results.txt', 'a') as f:
     f.write(string)
