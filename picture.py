@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 29 16:09:02 2021
-
-@author: elizavetalebosina
-"""
-
-"""
-Corrected on Wed Sep 22 2021
-@author: elizavetalebosina
-соавтор - Клячина Алёна
-"""
-
 import pygame
 from pygame.draw import *
 import math
